@@ -1,0 +1,298 @@
+{
+  "items": [
+    {
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SSD Learning Resources",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "System Memory",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2022-03-09T01:22:12Z",
+                "owner": "mikeroyal",
+                "repo": "SSD-Guide",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSD Interfaces",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2022-03-09T01:22:12Z",
+                "owner": "mikeroyal",
+                "repo": "SSD-Guide",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PCIe Protocols",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2022-03-09T01:22:12Z",
+                "owner": "mikeroyal",
+                "repo": "SSD-Guide",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fabrics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2022-03-09T01:22:12Z",
+                "owner": "mikeroyal",
+                "repo": "SSD-Guide",
+                "stars": 109
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File systems & Storage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtualization Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emulation Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firmware Development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verilog/SystemVerilog Development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Assembly Development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C/C++ Development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electric charge, field, and potential",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circuits",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magnetic forces, magnetic fields, and Faraday's law",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electromagnetic waves and interference",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-03-09T01:22:12Z",
+            "owner": "mikeroyal",
+            "repo": "SSD-Guide",
+            "stars": 109
+          }
+        }
+      ],
+      "title": "A guide covering including the applications, libraries and tools that will make you a better and more efficient with your powered device."
+    },
+    {
+      "description": "Back to the Top\nNAND Flash is a type flash memory where cells are connected in series, resembling a CMOS NAND gate. Flash memory is used in computers, PDAs, digital audio players, digital cameras, mobile phones, synthesizers, video games, scientific instrumentation, industrial robotics, and medical electronics.\n3D Vertical NAND (V-NAND) is a unique NAND flash memory design by Samsung where planar NAND (single planes of NAND cells) are stacked vertically and boasts a cell-to-cell interference-free structure using Charge Trap Flash (CTF) technology. This change in vertical arrangement of cells these SSDs have better capacities at lower production costs, half the power requirements, twice the speed and ten times the longevity of planar NAND.\nCharge trap flash (CTF) is a semiconductor memory technology used in creating non-volatile NOR and NAND flash memory. It's a type of floating-gate MOSFET memory technology, but differs from the conventional floating-gate technology in that it uses a silicon nitride film to store electrons rather than the doped polycrystalline silicon typical of a floating-gate structure.\nNOR Flash is a type flash memory where each cell has one end connected directly to ground, and the other end connected directly to a bit line.\nUniversal Flash Storage (UFS) is an open standard, high-performance interface designed for use in applications where power consumption needs to be minimized, including mobile systems such as smartphones and tablets as well as automotive applications. Its high-speed serial interface and optimized protocol enable significant improvements in throughput and system performance.\nFlash Translation Layer (FTL) is designed and tested to handle unexpected system resets cleanly. If a write is initiated during a system reset, and not completed, then the old state of the logical sector being addressed will be presented on start-up. If the write operation was complete, then the new state of the logical sector will be read. No in-between states or complex recovery procedures are required.\nIntel® Optane™ memory is a standalone memory device that is different from all the rest. It streamlines your computing experience by combining storage capacity and intelligent system acceleration.\nMemory module is a printed circuit board on which memory integrated circuits are mounted. Memory modules permit easy installation and replacement in electronic systems such as personal computers, workstations, and servers.\nCMOS (Complementary Metal-Oxide Semiconductor) is a small amount of memory on a computer motherboard that stores the BIOS settings. These BIOS settings include the system time and date, as well as hardware settings.\nRandom Access Memory (RAM) is a form of computer memory that can be read and changed in any order, typically used to store working data and machine code. A random access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media.\nNon-Volatile Random Access Memory (NVRAM) is a category of Random Access Memory (RAM) that retains stored data even if the power is switched off. NVRAM uses a tiny 24-pin dual inline package (DIP) integrated circuit chip, which helps it to gain the power required to function from the CMOS battery on the motherboard.\nEmbedded MultiMediaCard (eMMC) is an internal data storage card, built using flash storage.Its tiny size and low price make it a popular choice for data storage in portable devices like smartphones, tablets, cameras, and laptops.\nError Correction Code (ECC) memory is a method of detecting and then correcting single-bit memory errors. A single-bit memory error is a data error in server output or production, and the presence of errors can have a big impact on server performance. The two types of single-bit memory errors: hard errors and soft errors. Hard errors are caused by physical factors, such as excessive temperature variation, voltage stress, or physical stress brought upon the memory bits. Soft errors occur when data is written or read differently than originally intended, such as variations in voltage on the motherboard, to cosmic rays or radioactive decay that can cause bits in the memory to flip.\nEEPROM (Electrically Erasable Programmable Read-Only Memory) is a type of non-volatile memory used in integrated in microcontrollers for smart cards/remote keyless systems, and other electronic devices to store relatively small amounts of data by allowing individual bytes to be erased and reprogrammed as needed in an application.\nEPROM is a memory chip that does not lose data even when the power is switched off. This is a non-volatile memory type so it retains data even when the power is switched off. Each EPROM is individually programmed by an electronic device.\nVirtual memory is a memory management technique that is implemented by using both hardware (central processing unit (CPU)) and software. It makes a program think it has available storage space or address space. When actually virtual memory usually is divided into several physical memory fragments, and stored on the disk storage(SSD or HDD) which can be used to exchange data when needed. On Windows this is called a Pagefile or on Linux a Swap space.\nSecure virtual memory is a technique used in macOS that encrypts the data in virtual memory. Secure virtual memory is always on, so data is kept secure while it’s swapped between your hard disk and RAM. The RAM on your Mac contains no information when it’s off.\nMemory-Mapped Files is a technique that contains the contents of a file in virtual memory. This mapping between a file and memory space enables an application, including multiple processes, to modify the file by reading and writing directly to the memory. You can use managed code to access memory-mapped files in the same way that native Windows functions access memory-mapped files\nBcache is a cache in the Linux kernel's block layer, which is used for accessing secondary storage devices. It allows one or more fast storage devices, such as flash-based solid-state drives (SSDs), to act as a cache for one or more slower storage devices, such as hard disk drives (HDDs). This effectively creating hybrid volumes and provides performance improvements.",
+      "items": [],
+      "title": "System Memory"
+    },
+    {
+      "description": "Back to the Top\nSerial ATA (SATA) is a computer bus interface that connects host bus adapters to mass storage devices such as hard disk drives, optical drives, and solid-state drives.\nM.2 is a specification for internally mounted computer expansion cards and associated connectors. M.2 replaces the mSATA standard, which uses the PCI Express Mini Card physical card layout and connectors.\nNVM Express (NVMe) is an open, logical-device interface specification for accessing a computer's non-volatile storage media usually attached via PCI Express (PCIe) bus.\nPCI Express (PCIe) is a high-speed serial computer expansion bus standard, designed to replace the older PCI, PCI-X and AGP bus standards.",
+      "items": [],
+      "title": "SSD Interfaces"
+    },
+    {
+      "description": "Back to the Top\nTransaction Layer Packets (TLPs) is the starting point in the assembly of outbound Transaction Layer Packets (TLPs), and the end point for disassembly of inbound TLPs at the receiver. Along the way, the Data Link Layer and Physical Layer of each device contribute to the packet assembly and disassembly.\nPhysical layer is the lowest layer in the seven-layer OSI model of computer networking. It provides mechanical, electrical and other functional aids available to enable or disable, they maintain and transmit bits about physical connections. This may for example be electrical signals, optical signals (optical fiber, laser), electromagnetic waves (wireless networks) or sound. The techniques used are called technical transmission process. Devices and network components that are associated with the physical layer, for example, the antenna and the amplifier, plug and socket for the network cable, the repeater, the stroke, the transceiver, the T-bar and the terminator.\nNetwork interface cards (NICs) is a network interface controller, network adapter, or Local Area Network ( LAN) adapter. It provides network connections for devices like computers and servers.\nEnumeration is defined as a process which establishes an active connection to the target hosts to discover potential attack vectors in the system, and the same can be used for further exploitation of the system.",
+      "items": [],
+      "title": "PCIe Protocols"
+    },
+    {
+      "description": "Firmware is a software program that comes embedded in a piece of hardware such as a keyboard, hard drive, BIOS, or a video card. It usually provides basic functions of a device and sometimes only provide services to higher-level software.\nOnline Embedded Systems Courses | Harvard University\nInternet of Things Graduate Program | Stanford Online\nEmbedded Systems Certificate | UCSC Silicon Valley Extension\nEmbedded Systems Technology (EET) | ODU Online\nLearn Embedded Systems with Online Courses and Classes | edX\nTop Embedded Systems Courses Online | Udemy\nTop Embedded C Courses Online | Coursera\nEmbedded Systems | Udacity Free Courses\nEmbedded Linux Online Course - Arm®\nSoftware Development Online Courses | Coursera\nTop Software Engineering Courses | Coursera\nLearn Software Development with Online Courses and Lessons | edX",
+      "items": [],
+      "title": "Firmware Learning Resources"
+    },
+    {
+      "description": "Coreboot is a replacement for your BIOS / UEFI with a strong focus on boot speed, security and flexibility. It is designed to boot your operating system as fast as possible without any compromise to security, with no back doors.\nTianoCore is a community project supporting an open source implementation of the Unified Extensible Firmware Interface (UEFI). EDK II is a modern, feature-rich, cross-platform firmware development environment for the UEFI and UEFI Platform Initialization (PI) specifications.\nEDK II is a modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications .\nOpenWrt Project is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management.\nOpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.\nLinux Vendor Firmware Service(LVFS) is a secure portal which allows hardware vendors to upload firmware updates.\nfwupd is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.\nCHIPSEC is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.\nSecure boot is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).\nTrusted Platform Module (TPM is a technology module designed to provide hardware-based, security-related functions. A TPM chip is a secure crypto-processor that is designed to carry out cryptographic operations.\nIntel® oneAPI Base Toolkit is a foundational kit that enables developers of all types to build, test, and deploy performance-driven, data-centric applications across CPUs, GPUs, and FPGAs. For more specialized workloads, use the Base Kit with one or more add-on toolkits.\nIntel® oneAPI HPC Toolkit is toolkit that delivers fast DPC++, C++, Fortran, OpenMP, and MPI applications that scale.\nIntel® oneAPI IoT Toolkit is a toolkit for building high-performing, efficient, reliable solutions that run at the network’s edge.\nIntel® oneAPI Rendering Toolkit is a toolit for accelerating High-Fidelity Rendering and Visualization Applications with Powerful Libraries.\nIntel® AI Analytics Toolkit is a toolkit that helps you achieve end-to-end performance for AI workloads.\nIntel® Distribution of OpenVINO™ Toolkit is a toolkit that you help you harness the full potential of AI across multiple Intel® architectures.\nSystem76 Firmware is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.\nFirmware Manager is a generic framework and GTK UI for firmware updates from system76-firmware and fwupd, written in Rust.\nHeimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.\nNexmon is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.\nFirmware Analysis Toolkit is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is built in order to use for the \"Offensive IoT Exploitation\" training conducted by Attify.\nFirmware Analysis and Comparison Tool is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.\nMellanox firmware update and query utility is a utility that enables scanning the server machine for available Mellanox adapters and indicates whether firmware update is required for each adapter.\nMellanox FlexBoot is a multiprotocol remote boot technology that delivers unprecedented flexibility in how IT Managers can provision or repurpose their datacenter servers. FlexBoot enables remote boot over InfiniBand or Ethernet using Boot over InfiniBand, over Ethernet, or Boot over iSCSI (Bo-iSCSI). Combined with Virtual Protocol Interconnect (VPI) technologies available in ConnectX®-3 and onwards adapters, FlexBoot gives IT Managers the flexibility to deploy servers with one adapter card into InfiniBand or Ethernet networks with the ability to boot from LAN or remote storage targets.\nQMK Toolbox is a Toolbox companion for QMK Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.\nQMK(Quantum Mechanical Keyboard) Firmware is an open-source keyboard firmware for Atmel AVR and Arm USB controllers, and more specifically, the OLKB product line, the ErgoDox EZ keyboard, and the Clueboard product line.\nTMK Keyboard Firmware is keyboard firmwares for Atmel AVR and Arm Cortex-M.\nBack to the Top",
+      "items": [],
+      "title": "Firmware Tools, Libraries, and Frameworks"
+    },
+    {
+      "description": "Verilog is a Hardware Description Language(HDL) used to design and document electronic systems. Verilog HDL allows designers to design at various levels of abstraction.\nSystemVerilog is an extension of Verilog with many of the verification features that allow engineers to verifythe design using complex testbench structures and random stimuli in simulation.\nVerilog Book Shelf\nVerilog HDL Basics training from Intel\nSystemVerilog for Design and Verification\nVerilog HDL Programming Courses on Udemy\nTop Verilog Programming Courses on Coursera\nVerilog course for Engineers on Technobyte\nVerilog Tutorials and Courses on hackr.io\nDesigning With Verilog Certification from the Xilinx Learning Center\nLearning Verilog for FPGA Development on LinkedIn Learning\nSystemVerilog tutorial on ChipVerify",
+      "items": [],
+      "title": "Verilog/SystemVerilog Learning Resources"
+    },
+    {
+      "description": "Apio is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.\nIceStorm is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.\nIcestudio is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.\nEDA Playground is a online code for programming your Verilog projects.\nPlatformIO is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.\nPlatformIO for VSCode is a plugin that provides support for the PlatformIO IDE on VSCode.\nChisel is a hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs. Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog.\nClash compiler is a functional hardware description language that borrows both its syntax and semantics from the functional programming language Haskell. The Clash compiler transforms these high-level descriptions to low-level synthesizable VHDL, Verilog, or SystemVerilog.\nVerilator is an open-source SystemVerilog simulator and lint system.\nVerilog to Routing(VTR) is a collaborative project to provide a open-source framework for conducting FPGA architecture and CAD Research & Development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.\nCascade is a Just-In-Time Compiler for Verilog from VMware Research. Cascade executes code immediately in a software simulator, and performs compilation in the background. When compilation is finished, the code is moved into hardware, and from the user’s perspective it simply gets faster over time.\nOpenTimer is a High-Performance Timing Analysis Tool for VLSI Systems.\nBack to the Top",
+      "items": [],
+      "title": "Verilog/SystemVerilog Tools"
+    },
+    {
+      "description": "Assembly is a low-level programming language. It uses mnemonic codes and labels to represent machine-level code with each instruction corresponding to just one machine operation.\nRISC-V Foundation is a non-profit corporation controlled by its 500 members(NVIDIA, Google, Samsung, Raspberry Pi, SiFive, Canonical, and Western Digital) to drive forward the adoption and implementation of the free and open RISC-V instruction set architecture (ISA).\nIntel® 64 and IA-32 Architectures Software Developer’s Manual\nIntroduction to x64 Assembly from Intel\nx86 Assembly Language Reference Manual for Open Solaris\nAMD64 Architecture Programmer’s Manual Volume 1-5\nAMD GPU ISA documentation\nAMD Developer Guides, Manuals, and ISA Documents\nAssembler language from IBM\nThe Assembler language on z/OS from IBM\nMIPS Architecture & Technology from Wave Computing\nAssemblies in .NET\nMicrosoft Macro Assembler reference\nCompiler Intrinsics and Assembly Language from Microsoft\nx86 and amd64 instruction Reference\nIntro to x86 Assembly Language Programming\nLearn Assembly Programming courses on Udemy\nAssembly Languages and Assemblers courses on Coursera\nIntro to Assembly Language from MIT\nBack to the Top",
+      "items": [],
+      "title": "Assembly Learning Resources"
+    },
+    {
+      "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Core Guidelines\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nBasics of Embedded C Programming for Beginners on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
+      "items": [],
+      "title": "C/C++ Learning Resources"
+    },
+    {
+      "description": "AWS SDK for C++\nAzure SDK for C++\nAzure SDK for C\nC++ Client Libraries for Google Cloud Services\nVisual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nVcpkg is a C++ Library Manager for Windows, Linux, and MacOS.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nCppSharp is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nThrust is a C++ parallel programming library which resembles the C++ Standard Library. Thrust's high-level interface greatly enhances programmer productivity while enabling performance portability between GPUs and multicore CPUs. Interoperability with established technologies such as CUDA, TBB, and OpenMP integrates with existing software.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nJavaCPP is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nSpdlog is a very fast, header-only/compiled, C++ logging library.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.\nBack to the Top\nElectric Potential Energy. Source: sparkfun\nBack to the Top\nElectric Circuits. Source: sdsu-physics\nSymbols of Circuits .Source: andrewpover.co.uk\nBack to the Top\nMagnetic Field. Source: vecteezy\nAmphere's Law. Source: sdsu-physics\nFarady's law. Source: sdsu-physics\nBack to the Top\nElectromagnetic Wave. Source: differencebetween\nEMI Spectrum. Source: electrical4u",
+      "items": [],
+      "title": "C/C++ Tools, Libraries and Frameworks"
+    },
+    {
+      "description": "Back to the Top\nDistributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:19:34.061Z",
+    "original_repository": "mikeroyal/SSD-Guide",
+    "original_repository_sha": "bf6700d3f9d0e95f8337bc07de7e80751188c0f7",
+    "enhanced_repository": "enhansome/enhansome-SSD-Guide",
+    "enhanced_repository_description": null,
+    "title": "Awesome SSD Learning Resources with stars"
+  }
+}
