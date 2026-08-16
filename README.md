@@ -251,7 +251,7 @@
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,108 | 🐛 221 | 🌐 Rust | 📅 2026-08-15 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,110 | 🐛 221 | 🌐 Rust | 📅 2026-08-15 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -348,11 +348,11 @@
 
 [OpenWrt Project](https://openwrt.org/) is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management.
 
-[OpenSK](https://github.com/google/OpenSK) ⭐ 3,399 | 🐛 12 | 🌐 Rust | 📅 2026-08-06 is an open-source implementation for security keys written in Rust that supports both FIDO U2F and [FIDO2](https://fidoalliance.org/fido2/) standards.
+[OpenSK](https://github.com/google/OpenSK) ⭐ 3,400 | 🐛 12 | 🌐 Rust | 📅 2026-08-06 is an open-source implementation for security keys written in Rust that supports both FIDO U2F and [FIDO2](https://fidoalliance.org/fido2/) standards.
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,114 | 🐛 102 | 🌐 C | 📅 2026-08-14 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,115 | 🐛 103 | 🌐 C | 📅 2026-08-15 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -374,9 +374,9 @@
 
 [System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-08-13 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-08-13 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,114 | 🐛 102 | 🌐 C | 📅 2026-08-14, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-08-13 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,115 | 🐛 103 | 🌐 C | 📅 2026-08-15, written in Rust.
 
-[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,095 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
+[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,096 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
 [Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,870 | 🐛 344 | 🌐 C | 📅 2026-07-13 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
 
@@ -390,7 +390,7 @@
 
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,067 | 🐛 31 | 🌐 C# | 📅 2026-07-21 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
 
-[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,625 | 🐛 548 | 🌐 C | 📅 2026-08-13 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
+[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,629 | 🐛 549 | 🌐 C | 📅 2026-08-13 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
 
 [TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,131 | 🐛 164 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
 
@@ -432,7 +432,7 @@
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 50 | 🌐 Python | 📅 2026-08-15 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 51 | 🌐 Python | 📅 2026-08-16 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,180 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -542,7 +542,7 @@
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,246 | 🐛 245 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,245 | 🐛 245 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -588,17 +588,17 @@
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 151 | 🌐 C++ | 📅 2026-08-15
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 155 | 🌐 C++ | 📅 2026-08-16
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 657 | 🐛 208 | 🌐 C++ | 📅 2026-08-15
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 657 | 🐛 208 | 🌐 C++ | 📅 2026-08-16
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,362 | 🐛 1,159 | 🌐 CMake | 📅 2026-08-15 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,365 | 🐛 1,152 | 🌐 CMake | 📅 2026-08-15 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -650,7 +650,7 @@
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,482 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,484 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -766,4 +766,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
