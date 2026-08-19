@@ -237,7 +237,7 @@
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,227 | 🐛 161 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,229 | 🐛 161 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
@@ -251,11 +251,11 @@
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,117 | 🐛 223 | 🌐 Rust | 📅 2026-08-18 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,123 | 🐛 228 | 🌐 Rust | 📅 2026-08-19 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
-[Xen](https://github.com/xen-project/xen) ⭐ 839 | 🐛 3 | 🌐 C | 📅 2026-08-18 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
+[Xen](https://github.com/xen-project/xen) ⭐ 839 | 🐛 3 | 🌐 C | 📅 2026-08-19 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
 
 [Ganeti](https://github.com/ganeti/ganeti) ⭐ 580 | 🐛 333 | 🌐 Python | 📅 2026-07-27 is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software. Once installed, the tool assumes management of the virtual instances (Xen DomU).
 
@@ -352,7 +352,7 @@
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,117 | 🐛 106 | 🌐 C | 📅 2026-08-18 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,118 | 🐛 99 | 🌐 C | 📅 2026-08-19 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -372,9 +372,9 @@
 
 [Intel® Distribution of OpenVINO™ Toolkit](https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html) is a toolkit that you help you harness the full potential of AI across multiple Intel® architectures.
 
-[System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-08-13 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
+[System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 21 | 🌐 Rust | 📅 2026-08-18 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 22 | 🌐 Rust | 📅 2026-08-13 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,117 | 🐛 106 | 🌐 C | 📅 2026-08-18, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 21 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,118 | 🐛 99 | 🌐 C | 📅 2026-08-19, written in Rust.
 
 [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,091 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
@@ -388,9 +388,9 @@
 
 [Mellanox FlexBoot](https://www.mellanox.com/products/adapter-software/flexboot) is a multiprotocol remote boot technology that delivers unprecedented flexibility in how IT Managers can provision or repurpose their datacenter servers. FlexBoot enables remote boot over InfiniBand or Ethernet using Boot over InfiniBand, over Ethernet, or Boot over iSCSI (Bo-iSCSI). Combined with Virtual Protocol Interconnect (VPI) technologies available in ConnectX®-3 and onwards adapters, FlexBoot gives IT Managers the flexibility to deploy servers with one adapter card into InfiniBand or Ethernet networks with the ability to boot from LAN or remote storage targets.
 
-[QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,067 | 🐛 31 | 🌐 C# | 📅 2026-07-21 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
+[QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,068 | 🐛 25 | 🌐 C# | 📅 2026-08-19 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
 
-[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,636 | 🐛 550 | 🌐 C | 📅 2026-08-17 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
+[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,635 | 🐛 549 | 🌐 C | 📅 2026-08-17 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
 
 [TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,131 | 🐛 164 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
 
@@ -432,7 +432,7 @@
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 40 | 🌐 Python | 📅 2026-08-18 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,004 | 🐛 41 | 🌐 Python | 📅 2026-08-19 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
 [IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,181 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
@@ -542,7 +542,7 @@
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,251 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,252 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -588,17 +588,17 @@
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 161 | 🌐 C++ | 📅 2026-08-18
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 204 | 🐛 169 | 🌐 C++ | 📅 2026-08-19
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 207 | 🌐 C++ | 📅 2026-08-18
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 207 | 🌐 C++ | 📅 2026-08-19
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,371 | 🐛 1,135 | 🌐 CMake | 📅 2026-08-18 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,375 | 🐛 1,136 | 🌐 CMake | 📅 2026-08-19 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -608,7 +608,7 @@
 
 [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
 
-[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,400 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
+[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,401 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
 
 [Conan](https://conan.io/) is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.
 
@@ -646,11 +646,11 @@
 
 [Oat++](https://oatpp.io/) is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 
-[JavaCPP](https://github.com/bytedeco/javacpp) ⭐ 4,705 | 🐛 113 | 🌐 Java | 📅 2026-08-10 is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.
+[JavaCPP](https://github.com/bytedeco/javacpp) ⭐ 4,706 | 🐛 113 | 🌐 Java | 📅 2026-08-10 is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,490 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,496 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -766,4 +766,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
