@@ -251,7 +251,7 @@
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,138 | 🐛 229 | 🌐 Rust | 📅 2026-08-22 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,138 | 🐛 229 | 🌐 Rust | 📅 2026-08-24 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -352,7 +352,7 @@
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,126 | 🐛 103 | 🌐 C | 📅 2026-08-24 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,126 | 🐛 102 | 🌐 C | 📅 2026-08-24 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -374,7 +374,7 @@
 
 [System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,126 | 🐛 103 | 🌐 C | 📅 2026-08-24, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 78 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,126 | 🐛 102 | 🌐 C | 📅 2026-08-24, written in Rust.
 
 [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,097 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
@@ -454,7 +454,7 @@
 
 [Cascade](https://github.com/vmware/cascade) ⚠️ Archived is a Just-In-Time Compiler for Verilog from VMware Research. Cascade executes code immediately in a software simulator, and performs compilation in the background. When compilation is finished, the code is moved into hardware, and from the user’s perspective it simply gets faster over time.
 
-[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 712 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
+[OpenTimer](https://github.com/OpenTimer/OpenTimer) ⭐ 713 | 🐛 63 | 🌐 Verilog | 📅 2025-12-26 is a High-Performance Timing Analysis Tool for VLSI Systems.
 
 # Assembly Development
 
@@ -592,7 +592,7 @@
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 205 | 🌐 C++ | 📅 2026-08-24
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 206 | 🌐 C++ | 📅 2026-08-24
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
