@@ -21,7 +21,8 @@
                 "owner": "mikeroyal",
                 "repo": "SSD-Guide",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "mikeroyal",
                 "repo": "SSD-Guide",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -51,7 +53,8 @@
                 "owner": "mikeroyal",
                 "repo": "SSD-Guide",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -66,7 +69,8 @@
                 "owner": "mikeroyal",
                 "repo": "SSD-Guide",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             }
           ],
           "repo_info": {
@@ -77,7 +81,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -92,7 +97,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -107,7 +113,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -122,7 +129,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -137,7 +145,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -152,7 +161,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -167,7 +177,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -182,7 +193,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -197,7 +209,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -212,7 +225,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -227,7 +241,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -242,7 +257,8 @@
             "owner": "mikeroyal",
             "repo": "SSD-Guide",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         }
       ],
       "title": "A guide covering including the applications, libraries and tools that will make you a better and more efficient with your powered device."
@@ -263,7 +279,8 @@
             "owner": "virt-manager",
             "repo": "virt-manager",
             "stars": 3233
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -278,7 +295,8 @@
             "owner": "moby",
             "repo": "hyperkit",
             "stars": 3713
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -293,7 +311,8 @@
             "owner": "intel",
             "repo": "gvt-linux",
             "stars": 516
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -304,11 +323,12 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-27T17:32:43Z",
+            "last_commit": "2026-08-28T17:02:01Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6153
-          }
+            "stars": 6156
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -322,8 +342,9 @@
             "last_commit": "2026-08-27T10:43:49Z",
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 842
-          }
+            "stars": 843
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         },
         {
           "node_type": "item",
@@ -338,7 +359,8 @@
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-28T22:30:26.237Z"
         }
       ],
       "title": "Virtualization Tools"
@@ -361,7 +383,8 @@
                 "owner": "tianocore",
                 "repo": "tianocore.github.io",
                 "stars": 1402
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -375,8 +398,9 @@
                 "last_commit": "2026-08-06T08:22:13Z",
                 "owner": "google",
                 "repo": "OpenSK",
-                "stars": 3404
-              }
+                "stars": 3406
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -387,11 +411,12 @@
                 "archived": false,
                 "id": 31374735,
                 "language": "C",
-                "last_commit": "2026-08-27T20:59:57Z",
+                "last_commit": "2026-08-28T09:00:11Z",
                 "owner": "fwupd",
                 "repo": "fwupd",
-                "stars": 4131
-              }
+                "stars": 4132
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "pop-os",
                 "repo": "system76-firmware",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "pop-os",
                 "repo": "firmware-manager",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -435,8 +462,9 @@
                 "last_commit": "2024-08-17T12:07:53Z",
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3098
-              }
+                "stars": 3099
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
                 "stars": 2879
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -466,7 +495,8 @@
                 "owner": "attify",
                 "repo": "firmware-analysis-toolkit",
                 "stars": 1582
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -477,11 +507,12 @@
                 "archived": false,
                 "id": 104088122,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:53:23Z",
+                "last_commit": "2026-08-28T13:47:54Z",
                 "owner": "fkie-cad",
                 "repo": "FACT_core",
                 "stars": 1460
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -495,8 +526,9 @@
                 "last_commit": "2026-08-20T10:47:05Z",
                 "owner": "qmk",
                 "repo": "qmk_toolbox",
-                "stars": 3071
-              }
+                "stars": 3072
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -510,8 +542,9 @@
                 "last_commit": "2026-08-27T01:13:48Z",
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20660
-              }
+                "stars": 20664
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -526,7 +559,8 @@
                 "owner": "tmk",
                 "repo": "tmk_keyboard",
                 "stars": 4132
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             }
           ],
           "description": "Coreboot is a replacement for your BIOS / UEFI with a strong focus on boot speed, security and flexibility. It is designed to boot your operating system as fast as possible without any compromise to security, with no back doors.\nTianoCore is a community project supporting an open source implementation of the Unified Extensible Firmware Interface (UEFI). EDK II is a modern, feature-rich, cross-platform firmware development environment for the UEFI and UEFI Platform Initialization (PI) specifications.\nOpenWrt Project is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management.\nLinux Vendor Firmware Service(LVFS) is a secure portal which allows hardware vendors to upload firmware updates.\nCHIPSEC is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.\nSecure boot is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).\nTrusted Platform Module (TPM is a technology module designed to provide hardware-based, security-related functions. A TPM chip is a secure crypto-processor that is designed to carry out cryptographic operations.\nIntel® oneAPI Base Toolkit is a foundational kit that enables developers of all types to build, test, and deploy performance-driven, data-centric applications across CPUs, GPUs, and FPGAs. For more specialized workloads, use the Base Kit with one or more add-on toolkits.\nIntel® oneAPI HPC Toolkit is toolkit that delivers fast DPC++, C++, Fortran, OpenMP, and MPI applications that scale.\nIntel® oneAPI IoT Toolkit is a toolkit for building high-performing, efficient, reliable solutions that run at the network’s edge.\nIntel® oneAPI Rendering Toolkit is a toolit for accelerating High-Fidelity Rendering and Visualization Applications with Powerful Libraries.\nIntel® AI Analytics Toolkit is a toolkit that helps you achieve end-to-end performance for AI workloads.\nIntel® Distribution of OpenVINO™ Toolkit is a toolkit that you help you harness the full potential of AI across multiple Intel® architectures.\nMellanox firmware update and query utility is a utility that enables scanning the server machine for available Mellanox adapters and indicates whether firmware update is required for each adapter.\nMellanox FlexBoot is a multiprotocol remote boot technology that delivers unprecedented flexibility in how IT Managers can provision or repurpose their datacenter servers. FlexBoot enables remote boot over InfiniBand or Ethernet using Boot over InfiniBand, over Ethernet, or Boot over iSCSI (Bo-iSCSI). Combined with Virtual Protocol Interconnect (VPI) technologies available in ConnectX®-3 and onwards adapters, FlexBoot gives IT Managers the flexibility to deploy servers with one adapter card into InfiniBand or Ethernet networks with the ability to boot from LAN or remote storage targets.",
@@ -550,11 +584,12 @@
                 "archived": false,
                 "id": 51361989,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:45:11Z",
+                "last_commit": "2026-08-28T10:12:36Z",
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1005
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -568,8 +603,9 @@
                 "last_commit": "2026-02-26T14:31:07Z",
                 "owner": "YosysHQ",
                 "repo": "icestorm",
-                "stars": 1182
-              }
+                "stars": 1183
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -584,7 +620,8 @@
                 "owner": "vmware-archive",
                 "repo": "cascade",
                 "stars": 446
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -598,8 +635,9 @@
                 "last_commit": "2025-12-26T05:39:10Z",
                 "owner": "OpenTimer",
                 "repo": "OpenTimer",
-                "stars": 713
-              }
+                "stars": 714
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             }
           ],
           "description": "Icestudio is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.\nEDA Playground is a online code for programming your Verilog projects.\nPlatformIO is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.\nPlatformIO for VSCode is a plugin that provides support for the PlatformIO IDE on VSCode.\nChisel is a hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs. Chisel adds hardware construction primitives to the Scala programming language, providing designers with the power of a modern programming language to write complex, parameterizable circuit generators that produce synthesizable Verilog.\nClash compiler is a functional hardware description language that borrows both its syntax and semantics from the functional programming language Haskell. The Clash compiler transforms these high-level descriptions to low-level synthesizable VHDL, Verilog, or SystemVerilog.\nVerilator is an open-source SystemVerilog simulator and lint system.\nVerilog to Routing(VTR) is a collaborative project to provide a open-source framework for conducting FPGA architecture and CAD Research & Development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.",
@@ -626,8 +664,9 @@
                 "last_commit": "2026-08-06T15:54:13Z",
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45279
-              }
+                "stars": 45281
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             }
           ],
           "description": "C++ is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.\nC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.\nEmbedded C is a set of language extensions for the C programming language by the C Standards Committee to address issues that exist between C extensions for different embedded systems. The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.\nC & C++ Developer Tools from JetBrains\nOpen source C++ libraries on cppreference.com\nC++ Graphics libraries\nC++ Libraries in MATLAB\nC++ Tools and Libraries Articles\nGoogle C++ Style Guide\nIntroduction C++ Education course on Google Developers\nC++ style guide for Fuchsia\nC and C++ Coding Style Guide by OpenTitan\nChromium C++ Style Guide\nC++ Style Guide for ROS\nLearn C++\nLearn C : An Interactive C Tutorial\nC++ Institute\nC++ Online Training Courses on LinkedIn Learning\nC++ Tutorials on W3Schools\nLearn C Programming Online Courses on edX\nLearn C++ with Online Courses on edX\nLearn C++ on Codecademy\nCoding for Everyone: C and C++ course on Coursera\nC++ For C Programmers on Coursera\nTop C Courses on Coursera\nC++ Online Courses on Udemy\nTop C Courses on Udemy\nBasics of Embedded C Programming for Beginners on Udemy\nC++ For Programmers Course on Udacity\nC++ Fundamentals Course on Pluralsight\nIntroduction to C++ on MIT Free Online Course Materials\nIntroduction to C++ for Programmers | Harvard\nOnline C Courses | Harvard University",
@@ -645,11 +684,12 @@
                 "archived": false,
                 "id": 233147271,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:57:13Z",
+                "last_commit": "2026-08-28T21:51:34Z",
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -664,7 +704,8 @@
                 "owner": "Azure",
                 "repo": "azure-sdk-for-c",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -675,11 +716,12 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:58:17Z",
+                "last_commit": "2026-08-28T21:01:25Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 659
-              }
+                "stars": 660
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -690,11 +732,12 @@
                 "archived": false,
                 "id": 68312233,
                 "language": "CMake",
-                "last_commit": "2026-08-26T19:17:53Z",
+                "last_commit": "2026-08-28T21:19:13Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27402
-              }
+                "stars": 27404
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -709,7 +752,8 @@
                 "owner": "mono",
                 "repo": "CppSharp",
                 "stars": 3406
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -724,7 +768,8 @@
                 "owner": "NVIDIA",
                 "repo": "thrust",
                 "stars": 5002
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -739,7 +784,8 @@
                 "owner": "bytedeco",
                 "repo": "javacpp",
                 "stars": 4705
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             },
             {
               "node_type": "item",
@@ -753,8 +799,9 @@
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29535
-              }
+                "stars": 29538
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             }
           ],
           "description": "AWS SDK for C++\nVisual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nReSharper C++ is a Visual Studio Extension for C++ developers developed by JetBrains.\nAppCode is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.\nCLion is a cross-platform IDE for C and C++ developers developed by JetBrains.\nCode::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.\nConan is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.\nHigh Performance Computing (HPC) SDK is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.\nBoost is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.\nAutomake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.\nCmake is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.\nGDB is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed.\nGCC is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.\nGSL is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.\nOpenGL Extension Wrangler Library (GLEW) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.\nLibtool is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.\nMaven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.\nTAU (Tuning And Analysis Utilities) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.\nClang is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.\nOpenCV is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.\nLibcu++ is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.\nANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.\nOat++ is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.\nCython is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.\nInfer is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in OCaml.",
@@ -782,7 +829,8 @@
                 "owner": "mikeroyal",
                 "repo": "SSD-Guide",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T22:30:26.237Z"
             }
           ],
           "description": null,
@@ -794,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:27:39.669Z",
+    "last_updated": "2026-08-28T22:30:26.237Z",
     "original_repository_info": {
       "archived": false,
       "id": 423603551,
