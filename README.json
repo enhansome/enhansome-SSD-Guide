@@ -698,7 +698,7 @@
             "open_issues": 164,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3233,
+            "stars": 3235,
             "topics": []
           },
           "first_seen": "2026-08-28T22:30:26.237Z"
@@ -758,10 +758,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-08-29T10:12:24Z",
-            "open_issues": 220,
+            "open_issues": 221,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6157,
+            "stars": 6161,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -865,7 +865,7 @@
                 "open_issues": 12,
                 "owner": "google",
                 "repo": "OpenSK",
-                "stars": 3409,
+                "stars": 3412,
                 "topics": [
                   "ctap2",
                   "embedded",
@@ -996,7 +996,7 @@
                 "open_issues": 345,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2881,
+                "stars": 2884,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -1055,7 +1055,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-28T13:47:54Z",
-                "open_issues": 145,
+                "open_issues": 146,
                 "owner": "fkie-cad",
                 "repo": "FACT_core",
                 "stars": 1460,
@@ -1084,7 +1084,7 @@
                 "open_issues": 24,
                 "owner": "qmk",
                 "repo": "qmk_toolbox",
-                "stars": 3072,
+                "stars": 3073,
                 "topics": [
                   "atmel",
                   "avr",
@@ -1114,7 +1114,7 @@
                 "open_issues": 549,
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20665,
+                "stars": 20666,
                 "topics": [
                   "atmel-avr",
                   "c",
@@ -1175,8 +1175,8 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T16:16:15Z",
-                "open_issues": 45,
+                "last_commit": "2026-08-30T15:05:37Z",
+                "open_issues": 44,
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1005,
@@ -1309,7 +1309,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45285,
+                "stars": 45288,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -1387,7 +1387,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T16:14:36Z",
+                "last_commit": "2026-08-30T09:00:22Z",
                 "open_issues": 202,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -1423,11 +1423,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-08-29T14:46:28Z",
-                "open_issues": 1220,
+                "last_commit": "2026-08-30T08:20:51Z",
+                "open_issues": 1222,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27404,
+                "stars": 27412,
                 "topics": [
                   "c",
                   "cmake",
@@ -1568,7 +1568,7 @@
                 "open_issues": 50,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29541,
+                "stars": 29546,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1644,7 +1644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:49:33.095Z",
+    "last_updated": "2026-08-30T16:52:18.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "Solid State Drive Guide",
