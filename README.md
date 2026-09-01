@@ -21,53 +21,53 @@
 
 # Table of Contents
 
-1. [SSD Learning Resources](https://github.com/mikeroyal/SSD-Guide#SSD-learning-resources) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+1. [SSD Learning Resources](https://github.com/mikeroyal/SSD-Guide#SSD-learning-resources) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-   * [System Memory](https://github.com/mikeroyal/SSD-Guide#System-memory) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
-   * [SSD Interfaces](https://github.com/mikeroyal/SSD-Guide#SSD-interfaces) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
-   * [PCIe Protocols](https://github.com/mikeroyal/SSD-Guide#PCIe-protocols) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
-   * [Fabrics](https://github.com/mikeroyal/SSD-Guide#Fabrics) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+   * [System Memory](https://github.com/mikeroyal/SSD-Guide#System-memory) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
+   * [SSD Interfaces](https://github.com/mikeroyal/SSD-Guide#SSD-interfaces) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
+   * [PCIe Protocols](https://github.com/mikeroyal/SSD-Guide#PCIe-protocols) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
+   * [Fabrics](https://github.com/mikeroyal/SSD-Guide#Fabrics) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-2. [File systems & Storage](https://github.com/mikeroyal/SSD-Guide#file-systems--storage) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+2. [File systems & Storage](https://github.com/mikeroyal/SSD-Guide#file-systems--storage) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-3. [Virtualization Tools](https://github.com/mikeroyal/SSD-Guide#virtualization-tools) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+3. [Virtualization Tools](https://github.com/mikeroyal/SSD-Guide#virtualization-tools) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-4. [Emulation Tools](https://github.com/mikeroyal/SSD-Guide#emulation-tools) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+4. [Emulation Tools](https://github.com/mikeroyal/SSD-Guide#emulation-tools) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-5. [Firmware Development](https://github.com/mikeroyal/SSD-Guide#firmware-development) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+5. [Firmware Development](https://github.com/mikeroyal/SSD-Guide#firmware-development) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-6. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/SSD-Guide#VerilogSystemVerilog-development) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+6. [Verilog/SystemVerilog Development](https://github.com/mikeroyal/SSD-Guide#VerilogSystemVerilog-development) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-7. [Assembly Development](https://github.com/mikeroyal/SSD-Guide#assembly-development) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+7. [Assembly Development](https://github.com/mikeroyal/SSD-Guide#assembly-development) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-8. [C/C++ Development](https://github.com/mikeroyal/SSD-Guide#cc-development) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+8. [C/C++ Development](https://github.com/mikeroyal/SSD-Guide#cc-development) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
-9. [Electric charge, field, and potential](https://github.com/mikeroyal/SSD-Guide#electric-charge-field-and-potential) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+9. [Electric charge, field, and potential](https://github.com/mikeroyal/SSD-Guide#electric-charge-field-and-potential) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
    * Charge and electric force (Coulomb's law): Electric charge, field, and potential
    * Electric field: Electric charge, field, and potential
    * Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
-10. [Circuits](https://github.com/mikeroyal/SSD-Guide#Circuits) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+10. [Circuits](https://github.com/mikeroyal/SSD-Guide#Circuits) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
     * Ohm's law and circuits with resistors: Circuits
     * Circuits with capacitors: Circuits
 
-11. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/SSD-Guide#magnetic-forces-magnetic-fields-and-Faradays-law) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+11. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/SSD-Guide#magnetic-forces-magnetic-fields-and-Faradays-law) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
     * Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
     * Electric motors: Magnetic forces, magnetic fields, and Faraday's law
     * Magnetic flux and Faraday's law
 
-12. [Electromagnetic waves and interference](https://github.com/mikeroyal/SSD-Guide#electromagnetic-waves-and-interference) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+12. [Electromagnetic waves and interference](https://github.com/mikeroyal/SSD-Guide#electromagnetic-waves-and-interference) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
     * Introduction to electromagnetic waves: Electromagnetic waves and interference
     * Interference of electromagnetic waves
 
 # Awesome SSD Learning Resources with stars
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 [Solid-State Drive (SSD)](https://en.wikipedia.org/wiki/Solid-state_drive) is a solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory. SSDs store data in semiconductor cells. where cells can contain between 1 and 4 bits of data. Starting with **single-bit cells ("Single Level Cells" or "SLC")** is generally the most reliable, durable, fast, and expensive type, compared with **2- and 3-bit cells ("Multi-Level Cells/MLC" and "Triple-Level Cells/TLC")**, and finally **quad-bit cells ("QLC")**.
 
@@ -81,7 +81,7 @@
 
 ## System Memory
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 [NAND Flash](https://en.wikipedia.org/wiki/NAND_Flash) is a type flash memory where cells are connected in series, resembling a [CMOS](https://en.wikipedia.org/wiki/CMOS) NAND gate. Flash memory is used in computers, PDAs, digital audio players, digital cameras, mobile phones, synthesizers, video games, scientific instrumentation, industrial robotics, and medical electronics.
 
@@ -123,7 +123,7 @@
 
 ## SSD Interfaces
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 [Serial ATA (SATA)](https://en.wikipedia.org/wiki/SATA) is a computer bus interface that connects host bus adapters to mass storage devices such as hard disk drives, optical drives, and solid-state drives.
 
@@ -135,7 +135,7 @@
 
 ## PCIe Protocols
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 [Transaction Layer Packets (TLPs)](https://www.oreilly.com/library/view/pci-express-system/0321156307/0321156307_ch04lev1sec5.html) is the starting point in the assembly of outbound Transaction Layer Packets (TLPs), and the end point for disassembly of inbound TLPs at the receiver. Along the way, the Data Link Layer and Physical Layer of each device contribute to the packet assembly and disassembly.
 
@@ -147,7 +147,7 @@
 
 ## Fabrics
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 [NVMe over Fabrics (NVMeOF)](https://www.samsung.com/us/labs/pdfs/nvmf-disaggregation-preprint.pdf) is a recent protocol standard for accessing NVMe devices over RDMA-capable networks. By leveraging RDMA, NVMf offloads data movement to the network card (NIC), thus reducing the processing overheads involved in handling remote I/O requests on both the host and the target.
 
@@ -161,7 +161,7 @@
 
 # File systems & Storage
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 [Flash file system](https://en.wikipedia.org/wiki/Flash_file_system) is a file system designed for storing files on flash memory–based storage devices.
 
@@ -195,7 +195,7 @@
 
 # Virtualization Tools
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -237,7 +237,7 @@
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,236 | 🐛 164 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,238 | 🐛 164 | 🌐 Python | 📅 2026-08-15 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
@@ -251,11 +251,11 @@
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,168 | 🐛 223 | 🌐 Rust | 📅 2026-08-31 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,173 | 🐛 220 | 🌐 Rust | 📅 2026-09-01 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
-[Xen](https://github.com/xen-project/xen) ⭐ 845 | 🐛 3 | 🌐 C | 📅 2026-08-31 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
+[Xen](https://github.com/xen-project/xen) ⭐ 845 | 🐛 3 | 🌐 C | 📅 2026-09-01 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
 
 [Ganeti](https://github.com/ganeti/ganeti) ⭐ 582 | 🐛 332 | 🌐 Python | 📅 2026-07-27 is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software. Once installed, the tool assumes management of the virtual instances (Xen DomU).
 
@@ -271,7 +271,7 @@
 
 # Emulation Tools
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 [Verdi® Protocol Analyzer](https://www.synopsys.com/verification/debug/verdi-protocol-analyzer.html) is a simulator independent, protocol and memory aware debug environment that enables users to quickly debug with any verification environment and easily share simulation results across teams. It gives users a graphical view of the transfers, transaction, packets and handshaking of a protocol. It highlights relationships across the hierarchy, visually unraveling the complex behavior of highly interleaved traffic. Also, enables engineers to quickly understand protocol activity, identify bottlenecks and debug unexpected behavior. Errors, warnings and messages are annotated to rapidly identify problems in the simulation.
 
@@ -303,7 +303,7 @@
 
 # Firmware Development
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126912889-d86e3171-471a-4c05-b6bf-36a70080ab7c.png">
@@ -344,7 +344,7 @@
 
 [TianoCore](https://www.tianocore.org/) is a community project supporting an open source implementation of the Unified Extensible Firmware Interface (UEFI). EDK II is a modern, feature-rich, cross-platform firmware development environment for the UEFI and UEFI Platform Initialization (PI) specifications.
 
-[EDK II](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II) ⭐ 1,402 | 🐛 40 | 🌐 HTML | 📅 2026-07-22 is a modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications .
+[EDK II](https://github.com/tianocore/tianocore.github.io/wiki/EDK-II) ⭐ 1,403 | 🐛 40 | 🌐 HTML | 📅 2026-07-22 is a modern, feature-rich, cross-platform firmware development environment for the UEFI and PI specifications .
 
 [OpenWrt Project](https://openwrt.org/) is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management.
 
@@ -352,7 +352,7 @@
 
 [Linux Vendor Firmware Service(LVFS)](https://fwupd.org) is a secure portal which allows hardware vendors to upload firmware updates.
 
-[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,133 | 🐛 105 | 🌐 C | 📅 2026-08-31 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
+[fwupd](https://github.com/fwupd/fwupd) ⭐ 4,134 | 🐛 109 | 🌐 C | 📅 2026-09-01 is a simple daemon to allow session software to update firmware. The goal og project is to make updating firmware on Linux automatic, safe and reliable.
 
 [CHIPSEC](https://chipsec.github.io/) is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.
 
@@ -374,15 +374,15 @@
 
 [System76 Firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 is a software package that has a CLI(command-line inferface) tool for installing firmware updates. Also, included is the system76-firmware-daemon package, which has a systemd service that exposes a DBUS API for handling firmware updates.
 
-[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,133 | 🐛 105 | 🌐 C | 📅 2026-08-31, written in Rust.
+[Firmware Manager](https://github.com/pop-os/firmware-manager) ⭐ 159 | 🐛 23 | 🌐 Rust | 📅 2025-10-27 is a generic framework and GTK UI for firmware updates from [system76-firmware](https://github.com/pop-os/system76-firmware) ⭐ 79 | 🐛 20 | 🌐 Rust | 📅 2026-08-18 and [fwupd](https://github.com/fwupd/fwupd) ⭐ 4,134 | 🐛 109 | 🌐 C | 📅 2026-09-01, written in Rust.
 
-[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,099 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
+[Heimdall](https://github.com/Benjamin-Dobell/Heimdall) ⭐ 3,098 | 🐛 259 | 🌐 C++ | 📅 2024-08-17 is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung mobile devices.
 
-[Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,884 | 🐛 346 | 🌐 C | 📅 2026-07-13 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
+[Nexmon](https://github.com/seemoo-lab/nexmon) ⭐ 2,885 | 🐛 346 | 🌐 C | 📅 2026-07-13 is a C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches, for example, to enable monitor mode with radiotap headers and frame injection.
 
 [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,581 | 🐛 51 | 🌐 Python | 📅 2024-09-16 is a toolkit built in order to help security researchers analyze and identify vulnerabilities in IoT and embedded device firmware. This is built in order to use for the ["Offensive IoT Exploitation"](https://www.attify-store.com/collections/training/products/offensive-iot-exploitation) training conducted by [Attify](https://attify.com/).
 
-[Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,460 | 🐛 146 | 🌐 Python | 📅 2026-08-28 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
+[Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,461 | 🐛 146 | 🌐 Python | 📅 2026-09-01 is a tool intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analyses. Additionally, it can compare several images or single files.
 
 [Mellanox firmware update and query utility](https://www.mellanox.com/support/firmware/mlxup-mft) is a utility that enables scanning the server machine for available Mellanox adapters and indicates whether firmware update is required for each adapter.
 
@@ -390,13 +390,13 @@
 
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,073 | 🐛 24 | 🌐 C# | 📅 2026-08-20 is a Toolbox companion for [QMK](https://qmk.fm/) Firmware. It provides a collection of flashing tools packaged into one app. It supports auto-detection and auto-flashing of firmware to keyboards.
 
-[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,668 | 🐛 549 | 🌐 C | 📅 2026-08-31 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
+[QMK(Quantum Mechanical Keyboard) Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,670 | 🐛 551 | 🌐 C | 📅 2026-08-31 is an open-source keyboard firmware for Atmel AVR and [Arm](https://www.arm.com/) USB controllers, and more specifically, the [OLKB product line](https://olkb.com/), the [ErgoDox EZ keyboard](https://ergodox-ez.com/), and the [Clueboard product line](https://clueboard.co/).
 
-[TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,132 | 🐛 164 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
+[TMK Keyboard Firmware](https://github.com/tmk/tmk_keyboard) ⭐ 4,133 | 🐛 164 | 🌐 C | 📅 2026-08-05 is keyboard firmwares for Atmel AVR and [Arm](https://www.arm.com/) Cortex-M.
 
 # Verilog/SystemVerilog Development
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/102273517-4b785480-3ed7-11eb-910a-113821428f17.png">
@@ -432,9 +432,9 @@
 
 ## Verilog/SystemVerilog Tools
 
-[Apio](https://github.com/FPGAwars/apio) ⭐ 1,005 | 🐛 46 | 🌐 Python | 📅 2026-08-31 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+[Apio](https://github.com/FPGAwars/apio) ⭐ 1,006 | 🐛 45 | 🌐 Python | 📅 2026-09-01 is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
 
-[IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,184 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
+[IceStorm](https://github.com/YosysHQ/icestorm) ⭐ 1,185 | 🐛 71 | 🌐 Python | 📅 2026-02-26 is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
 
 [Icestudio](https://icestudio.io/) is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.
 
@@ -458,7 +458,7 @@
 
 # Assembly Development
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/101415607-18154480-389d-11eb-80e8-17a5c57e480f.png">
@@ -507,7 +507,7 @@
 
 # C/C++ Development
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -542,7 +542,7 @@
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,291 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,288 | 🐛 246 | 🌐 CSS | 📅 2026-08-06
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -588,17 +588,17 @@
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 205 | 🐛 173 | 🌐 C++ | 📅 2026-08-31
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 205 | 🐛 171 | 🌐 C++ | 📅 2026-09-01
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 660 | 🐛 201 | 🌐 C++ | 📅 2026-08-31
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 660 | 🐛 203 | 🌐 C++ | 📅 2026-09-01
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,414 | 🐛 1,174 | 🌐 CMake | 📅 2026-08-31 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,419 | 🐛 1,182 | 🌐 CMake | 📅 2026-08-31 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -608,7 +608,7 @@
 
 [Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
 
-[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,407 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
+[CppSharp](https://github.com/mono/CppSharp) ⭐ 3,406 | 🐛 346 | 🌐 C# | 📅 2026-05-18 is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
 
 [Conan](https://conan.io/) is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems.
 
@@ -650,13 +650,13 @@
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,555 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,563 | 🐛 49 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 # Electric charge, field, and potential
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 ```
  - Charge and electric force (Coulomb's law): Electric charge, field, and potential
@@ -678,7 +678,7 @@
 
 # Circuits
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 ```
 - Ohm's law and circuits with resistors: Circuits
@@ -701,7 +701,7 @@
 
 # Magnetic forces, magnetic fields, and Faraday's law
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 ```
 - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
@@ -733,7 +733,7 @@
 
 # Electromagnetic waves and interference
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 ```
 - Introduction to electromagnetic waves: Electromagnetic waves and interference
@@ -756,14 +756,14 @@
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/SSD-Guide/pulls) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/SSD-Guide/pulls) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09.
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 110 | 🐛 0 | 🌐 C | 📅 2022-03-09
+[Back to the Top](https://github.com/mikeroyal/SSD-Guide#table-of-contents) ⭐ 111 | 🐛 0 | 🌐 C | 📅 2022-03-09
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
