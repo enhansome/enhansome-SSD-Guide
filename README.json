@@ -695,10 +695,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 157,
+            "open_issues": 158,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3250,
+            "stars": 3251,
             "topics": []
           },
           "first_seen": "2026-08-28T22:30:26.237Z"
@@ -719,7 +719,7 @@
             "open_issues": 53,
             "owner": "moby",
             "repo": "hyperkit",
-            "stars": 3713,
+            "stars": 3714,
             "topics": []
           },
           "first_seen": "2026-08-28T22:30:26.237Z"
@@ -757,11 +757,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-15T12:43:51Z",
-            "open_issues": 226,
+            "last_commit": "2026-09-16T16:32:17Z",
+            "open_issues": 223,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6229,
+            "stars": 6232,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -787,7 +787,7 @@
             "open_issues": 3,
             "owner": "xen-project",
             "repo": "xen",
-            "stars": 850,
+            "stars": 851,
             "topics": []
           },
           "first_seen": "2026-08-28T22:30:26.237Z"
@@ -805,10 +805,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-14T14:02:47Z",
-            "open_issues": 338,
+            "open_issues": 339,
             "owner": "ganeti",
             "repo": "ganeti",
-            "stars": 585,
+            "stars": 586,
             "topics": [
               "haskell",
               "kvm",
@@ -896,11 +896,11 @@
                 "id": 31374735,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-15T16:49:08Z",
-                "open_issues": 107,
+                "last_commit": "2026-09-16T16:13:47Z",
+                "open_issues": 106,
                 "owner": "fwupd",
                 "repo": "fwupd",
-                "stars": 4158,
+                "stars": 4161,
                 "topics": [
                   "c",
                   "firmware",
@@ -996,7 +996,7 @@
                 "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2885,
+                "stars": 2886,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -1025,7 +1025,7 @@
                 "open_issues": 51,
                 "owner": "attify",
                 "repo": "firmware-analysis-toolkit",
-                "stars": 1600,
+                "stars": 1601,
                 "topics": [
                   "binary-analysis",
                   "firmware",
@@ -1175,8 +1175,8 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T17:07:59Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-16T03:54:42Z",
+                "open_issues": 39,
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1008,
@@ -1210,7 +1210,7 @@
                 "open_issues": 71,
                 "owner": "YosysHQ",
                 "repo": "icestorm",
-                "stars": 1186,
+                "stars": 1187,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -1309,7 +1309,7 @@
                 "open_issues": 247,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45317,
+                "stars": 45319,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -1333,11 +1333,11 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-15T05:25:15Z",
-                "open_issues": 173,
+                "last_commit": "2026-09-15T23:18:34Z",
+                "open_issues": 175,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "azure",
                   "azure-sdk",
@@ -1387,8 +1387,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T16:33:41Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-16T15:56:32Z",
+                "open_issues": 199,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659,
@@ -1423,8 +1423,8 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-09-15T02:50:01Z",
-                "open_issues": 1128,
+                "last_commit": "2026-09-16T07:18:05Z",
+                "open_issues": 1129,
                 "owner": "microsoft",
                 "repo": "vcpkg",
                 "stars": 27463,
@@ -1500,7 +1500,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 5000,
+                "stars": 5001,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1565,7 +1565,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-05T06:44:37Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "gabime",
                 "repo": "spdlog",
                 "stars": 29604,
@@ -1644,7 +1644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:10:37.528Z",
+    "last_updated": "2026-09-16T17:11:12.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "Solid State Drive Guide",
