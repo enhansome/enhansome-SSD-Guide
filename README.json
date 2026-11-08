@@ -78,11 +78,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-07T17:36:41Z",
+            "last_commit": "2026-11-08T14:05:49Z",
             "open_issues": 200,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6483,
+            "stars": 6487,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -165,7 +165,7 @@
                 "open_issues": 40,
                 "owner": "tianocore",
                 "repo": "tianocore.github.io",
-                "stars": 1414,
+                "stars": 1413,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -217,11 +217,11 @@
                 "id": 31374735,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-06T19:13:34Z",
-                "open_issues": 140,
+                "last_commit": "2026-11-08T13:51:33Z",
+                "open_issues": 141,
                 "owner": "fwupd",
                 "repo": "fwupd",
-                "stars": 4227,
+                "stars": 4226,
                 "topics": [
                   "c",
                   "firmware",
@@ -289,7 +289,7 @@
                 "open_issues": 259,
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3141,
+                "stars": 3142,
                 "topics": [
                   "android",
                   "firmware",
@@ -317,7 +317,7 @@
                 "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2915,
+                "stars": 2916,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -346,7 +346,7 @@
                 "open_issues": 25,
                 "owner": "attify",
                 "repo": "firmware-analysis-toolkit",
-                "stars": 1625,
+                "stars": 1627,
                 "topics": [
                   "binary-analysis",
                   "firmware",
@@ -379,7 +379,7 @@
                 "open_issues": 159,
                 "owner": "fkie-cad",
                 "repo": "FACT_core",
-                "stars": 1476,
+                "stars": 1475,
                 "topics": [
                   "firmware-analysis",
                   "firmware-tools",
@@ -431,11 +431,11 @@
                 "id": 27737393,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-29T16:52:08Z",
-                "open_issues": 585,
+                "last_commit": "2026-11-08T00:32:12Z",
+                "open_issues": 583,
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20800,
+                "stars": 20799,
                 "topics": [
                   "atmel-avr",
                   "c",
@@ -496,7 +496,7 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T05:07:30Z",
+                "last_commit": "2026-11-08T05:02:08Z",
                 "open_issues": 28,
                 "owner": "FPGAwars",
                 "repo": "apio",
@@ -580,7 +580,7 @@
                 "open_issues": 65,
                 "owner": "OpenTimer",
                 "repo": "OpenTimer",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "cad",
                   "circuit-analysis",
@@ -630,7 +630,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45443,
+                "stars": 45449,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -654,7 +654,7 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-07T05:06:22Z",
+                "last_commit": "2026-11-08T02:16:42Z",
                 "open_issues": 143,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
@@ -708,7 +708,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T15:48:36Z",
+                "last_commit": "2026-11-08T14:57:19Z",
                 "open_issues": 220,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -744,11 +744,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-11-07T09:17:48Z",
-                "open_issues": 1048,
+                "last_commit": "2026-11-08T04:44:07Z",
+                "open_issues": 1059,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27580,
+                "stars": 27583,
                 "topics": [
                   "c",
                   "cmake",
@@ -889,7 +889,7 @@
                 "open_issues": 58,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29740,
+                "stars": 29737,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:48:14.279Z",
+    "last_updated": "2026-11-08T17:59:47.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "Solid State Drive Guide",
