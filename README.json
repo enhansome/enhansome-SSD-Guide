@@ -19,7 +19,7 @@
             "open_issues": 176,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3308,
+            "stars": 3309,
             "topics": []
           },
           "first_seen": "2026-08-28T22:30:26.237Z"
@@ -78,11 +78,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-14T17:45:12Z",
-            "open_issues": 209,
+            "last_commit": "2026-11-15T10:40:48Z",
+            "open_issues": 204,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6523,
+            "stars": 6528,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -165,7 +165,7 @@
                 "open_issues": 40,
                 "owner": "tianocore",
                 "repo": "tianocore.github.io",
-                "stars": 1417,
+                "stars": 1418,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -183,10 +183,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T11:33:39Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "google",
                 "repo": "OpenSK",
-                "stars": 3485,
+                "stars": 3487,
                 "topics": [
                   "ctap2",
                   "embedded",
@@ -217,11 +217,11 @@
                 "id": 31374735,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-14T16:57:17Z",
-                "open_issues": 134,
+                "last_commit": "2026-11-15T14:34:34Z",
+                "open_issues": 133,
                 "owner": "fwupd",
                 "repo": "fwupd",
-                "stars": 4231,
+                "stars": 4234,
                 "topics": [
                   "c",
                   "firmware",
@@ -247,7 +247,7 @@
                 "open_issues": 22,
                 "owner": "pop-os",
                 "repo": "system76-firmware",
-                "stars": 80,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -286,10 +286,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2024-08-17T12:07:53Z",
-                "open_issues": 260,
+                "open_issues": 259,
                 "owner": "Benjamin-Dobell",
                 "repo": "Heimdall",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": [
                   "android",
                   "firmware",
@@ -317,7 +317,7 @@
                 "open_issues": 347,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2918,
+                "stars": 2919,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -405,7 +405,7 @@
                 "open_issues": 25,
                 "owner": "qmk",
                 "repo": "qmk_toolbox",
-                "stars": 3123,
+                "stars": 3124,
                 "topics": [
                   "atmel",
                   "avr",
@@ -432,10 +432,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-13T08:12:40Z",
-                "open_issues": 581,
+                "open_issues": 583,
                 "owner": "qmk",
                 "repo": "qmk_firmware",
-                "stars": 20816,
+                "stars": 20818,
                 "topics": [
                   "atmel-avr",
                   "c",
@@ -466,7 +466,7 @@
                 "open_issues": 165,
                 "owner": "tmk",
                 "repo": "tmk_keyboard",
-                "stars": 4138,
+                "stars": 4137,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -496,8 +496,8 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T05:30:10Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-15T17:30:22Z",
+                "open_issues": 31,
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1026,
@@ -630,7 +630,7 @@
                 "open_issues": 249,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45470,
+                "stars": 45473,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:30:26.237Z"
@@ -654,7 +654,7 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-14T01:03:12Z",
+                "last_commit": "2026-11-15T10:02:37Z",
                 "open_issues": 140,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
@@ -708,11 +708,11 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T17:52:09Z",
+                "last_commit": "2026-11-15T16:16:12Z",
                 "open_issues": 219,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "bigtable",
                   "cloud",
@@ -744,11 +744,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-11-14T07:07:46Z",
-                "open_issues": 1038,
+                "last_commit": "2026-11-15T09:05:18Z",
+                "open_issues": 1067,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27600,
+                "stars": 27602,
                 "topics": [
                   "c",
                   "cmake",
@@ -860,7 +860,7 @@
                 "open_issues": 113,
                 "owner": "bytedeco",
                 "repo": "javacpp",
-                "stars": 4704,
+                "stars": 4705,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -889,7 +889,7 @@
                 "open_issues": 60,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29756,
+                "stars": 29755,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:22:19.788Z",
+    "last_updated": "2026-11-15T19:00:41.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "Solid State Drive Guide",
